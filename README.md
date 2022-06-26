@@ -3,3 +3,5 @@
 I finished my Task 2 as a part of STEP i Internship at the start tech academy.
 
 I attach my solution file of predicting th CTC of new hires.
+
+I attached the datasets for reference
